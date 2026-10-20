@@ -1,2 +1,0 @@
-limit: {cores: 2, ram_mb: 1536}
-default_tier: 2

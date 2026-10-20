@@ -1,2 +1,0 @@
-limit: {cores: 2, ram_mb: 2048}
-eco: true
